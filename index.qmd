@@ -1,5 +1,5 @@
 ---
-title: "Programa de Prevención y Control de Arbovirosis | 2026 | Sonora"
+title: "Programa de Prevención y Control de Arbovirosis | 2026 | Nayarit"
 format: 
   dashboard:
     nav-buttons: [twitter, github, facebook]
